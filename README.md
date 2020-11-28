@@ -1,4 +1,4 @@
-StockWatch
+# StockWatch
 ---
 This is a simple stock app that take stocks data from iexcloud.io API. This app is designed for user to be easily keep track of their favorite stock.
 
@@ -14,11 +14,11 @@ company name, the current price, the daily price change amount and price percent
 The application is made up of only 1 activity, shown below: 
 
 ---
-# The following screenshots show the process of adding a stock
+### The following screenshots show the process of adding a stock
 <img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Adevice-2020-11-27-233723.png" height="500">
 
 ---
-# The following screenshots are various stage of the app
+### The following screenshots are various stage of the app
 -Duplicate Detection 
 -No Symbol
 -Deleting a Stock
@@ -26,5 +26,5 @@ The application is made up of only 1 activity, shown below:
 <img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Bdevice-2020-11-27-232856.png" height="500">
 
 ---
-# Clicking on a stock brings up details of the stock in marketwatch.com
+### Clicking on a stock brings up details of the stock in marketwatch.com
 <img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Cdevice-2020-11-27-234020.png" height="500">
