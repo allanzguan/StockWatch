@@ -13,6 +13,7 @@ company name, the current price, the daily price change amount and price percent
 
 The application is made up of only 1 activity, shown below: 
 
+---
 <img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Adevice-2020-11-27-233723.png" height="500">
 
 ---
