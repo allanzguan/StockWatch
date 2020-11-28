@@ -19,10 +19,10 @@ The application is made up of only 1 activity, shown below:
 
 ---
 ### The following screenshots are various stage of the app
--Duplicate Detection 
--No Symbol
--Deleting a Stock
--No Network Detection
+- Duplicate Detection 
+- No Symbol
+- Deleting a Stock
+- No Network Detection
 <img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Bdevice-2020-11-27-232856.png" height="500">
 
 ---
