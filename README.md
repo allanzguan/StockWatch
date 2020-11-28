@@ -15,11 +15,11 @@ The application is made up of only 1 activity, shown below:
 
 ---
 ### The following screenshots show the process of adding a stock
-<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Adevice-2020-11-27-233723.png" height="500">
+<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Adevice-2020-11-27-233723.png" height="350">
 
 ---
 ### Clicking on a stock brings up details of the stock in marketwatch.com
-<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Cdevice-2020-11-27-234020.png" height="500">
+<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Cdevice-2020-11-27-234020.png" height="350">
 
 ---
 ### The following screenshots are various stage of the app
@@ -27,6 +27,6 @@ The application is made up of only 1 activity, shown below:
 - No Symbol
 - Deleting a Stock
 - No Network Detection
-<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Bdevice-2020-11-27-232856.png" height="500">
+<img src="https://github.com/allanzguan/StockWatch/blob/main/screenshot/Bdevice-2020-11-27-232856.png" height="350">
 
 
