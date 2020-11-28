@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+
+    <string name="file_name">Stocks.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="no_file">No JSON File Present</string>
+</resources>
